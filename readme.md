@@ -69,3 +69,5 @@ TechBooster. App donde organizaciones sin fines de lucro puedan publicar sus apl
 Tremi. Aplicacion estilo uber, rapid, yummy para contratar servicios de salones de belleza a domicilio. Con sistema de calificacion entre los usuarios.
 
     - Jorge Casado
+    - Mauricio Reinales
+    - Miguel Garcia

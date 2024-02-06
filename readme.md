@@ -20,7 +20,7 @@ control de proyectos de instalaciones y reparaciones, llevar control de los proy
     - Kevin Pacheco
     - Alexa Vizcano
 
-    Tremi. Aplicacion estilo uber, rapid, yummy para contratar servicios de salones de belleza a domicilio. Con sistema de calificacion entre los usuarios.
+Tremi. Aplicacion estilo uber, rapid, yummy para contratar servicios de salones de belleza a domicilio. Con sistema de calificacion entre los usuarios.
 
     - Jorge Casado
     - Mauricio Reinales

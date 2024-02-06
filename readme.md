@@ -1,3 +1,31 @@
+# Poryectos Finales
+
+app para condominios o urbanizacion, epsecie de red social dedicada para condominios, que se pueda agilizar el registro de quien vive en la unida residencial para los administrador de la unidad.
+
+    - Lina Cardona
+    - Hector Prieto
+    - Juan Lopez
+    - Jessica Valbuena
+
+sistema de gestion de clinicas, regitro de medicos y pacientes, que el paciente pueda ver su historial medico. Que el medico pueda poner sus horarios y crear el historial clinico de sus pacientes, que pueda subir los examenes de los pacientes, creacion de recipes/recetas medicos, agendar citas y alertas segun la fecha de la cita. Panel de metricas de egresos e ingresos.
+
+    - Byron Canga
+    - Jose Muñoz
+    - Rogelio Granadino
+
+control de proyectos de instalaciones y reparaciones, llevar control de los proyectos (gastos, materiales, personal), seguimiento de procesos/actividades, mensajeria a los clientes, alertas a los supervisores del proyecto.
+
+    - Moises Correa
+    - Maruan Yarbouh
+    - Kevin Pacheco
+    - Alexa Vizcano
+
+    Tremi. Aplicacion estilo uber, rapid, yummy para contratar servicios de salones de belleza a domicilio. Con sistema de calificacion entre los usuarios.
+
+    - Jorge Casado
+    - Mauricio Reinales
+    - Miguel Garcia
+
 # Jose's Ideas:
 
 administrador de proyectos, llevar registro de progreso. Solo mostraria progeso de manera visual (llevarlo a porcentaje en otra pestaña)
@@ -24,31 +52,7 @@ web estilo pinterest, pero llevado a cursos relacionados con Tech, con reseñas,
 
 # Lina's Ideas:
 
-app para condominios o urbanizacion, epsecie de red social dedicada para condominios, que se pueda agilizar el registro de quien vive en la unida residencial para los administrador de la unidad.
-
-    - Lina Cardona
-    - Hector Prieto
-    - Juan Lopez
-    - Jessica Valbuena
-
 app para llevar seguimiento de ventas, inventario, pagos de clientes morosos, emitir recibos, etc, para consultoras.
-
-# Byron's Ideas:
-
-sistema de gestion de clinicas, regitro de medicos y pacientes, que el paciente pueda ver su historial medico. Que el medico pueda poner sus horarios y crear el historial clinico de sus pacientes, que pueda subir los examenes de los pacientes, creacion de recipes/recetas medicos, agendar citas y alertas segun la fecha de la cita. Panel de metricas de egresos e ingresos.
-
-    - Byron Canga
-    - Jose Muñoz
-    - Rogelio Granadino
-
-# Maruan's Ideas:
-
-control de proyectos de instalaciones y reparaciones, llevar control de los proyectos (gastos, materiales, personal), seguimiento de procesos/actividades, mensajeria a los clientes, alertas a los supervisores del proyecto.
-
-    - Moises Correa
-    - Maruan Yarbouh
-    - Kevin Pacheco
-    - Alexa Vizcano
 
 ## Jessica's Ideas:
 
@@ -65,9 +69,3 @@ app para wedding planners, llevar registro de todas las actividades, fotos, itin
 ## Jorge's Ideas:
 
 TechBooster. App donde organizaciones sin fines de lucro puedan publicar sus aplicaciones que necesiten mejorar/actualizar las mismas. Los desarrolladores puedes postularse para dar apoyo a las organizaciones
-
-Tremi. Aplicacion estilo uber, rapid, yummy para contratar servicios de salones de belleza a domicilio. Con sistema de calificacion entre los usuarios.
-
-    - Jorge Casado
-    - Mauricio Reinales
-    - Miguel Garcia

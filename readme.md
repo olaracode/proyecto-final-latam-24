@@ -3,7 +3,6 @@
 app para condominios o urbanizacion, epsecie de red social dedicada para condominios, que se pueda agilizar el registro de quien vive en la unida residencial para los administrador de la unidad.
 
     - Lina Cardona
-    - Hector Prieto
     - Juan Lopez
     - Jessica Valbuena
 
@@ -23,8 +22,7 @@ control de proyectos de instalaciones y reparaciones, llevar control de los proy
 Tremi. Aplicacion estilo uber, rapid, yummy para contratar servicios de salones de belleza a domicilio. Con sistema de calificacion entre los usuarios.
 
     - Jorge Casado
-    - Mauricio Reinales
-    - Miguel Garcia
+    - Hector Prieto
 
 # Jose's Ideas:
 
